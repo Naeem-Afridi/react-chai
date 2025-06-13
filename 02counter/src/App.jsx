@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
 
-  const [counter, setCounter] = useState(5);
+  const [counter, setCounter] = useState(2);
 
   const incValue = ()=> {
     if(counter < 20){
