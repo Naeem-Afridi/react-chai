@@ -5,10 +5,11 @@ This repository contains multiple React.js practice projects. Each folder includ
 ## 📁 Folder Structure
 
 react-chai/
-├── 01Project/
-├── 02Project/
-├── 03Project/
-├── 04Project/
+├── 01basicreact/
+├── 01vitereact/
+├── 02counter/
+├── 03tailwindprops/
+├── 04bgchanger/
 └── README.md
 
 
