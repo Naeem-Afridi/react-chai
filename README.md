@@ -10,13 +10,14 @@ react-chai/
 ├── 02counter/
 ├── 03tailwindprops/
 ├── 04bgchanger/
+├── 05passwordGenerator/
 └── README.md
 
 
 
 ## 🚀 How to Run a Project
 
-Each folder (`01Project`, `02Project`, `03Project`) is a standalone React app. You can run them individually using the following steps:
+Each folder (`01vitereact, 02counter, 03tailwindprops, 04bgchanger, 05passwordGenerator`) is a standalone React app. You can run them individually using the following steps:
 
 ### 1. Navigate to a project folder
 
